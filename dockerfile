@@ -1,5 +1,5 @@
 From tomcat:9
-Maintainer alexrestrej
+Maintainer alexrestrej1
 ADD addressbook.war /usr/local/tomcat/webapps
 CMD ["catalina.sh", "run"]
 EXPOSE 8080
